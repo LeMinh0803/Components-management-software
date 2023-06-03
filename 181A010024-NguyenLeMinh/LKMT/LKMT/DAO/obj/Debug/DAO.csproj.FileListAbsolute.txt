@@ -1,0 +1,46 @@
+E:\DACN\LKMT\DAO\bin\Debug\DAO.dll.config
+E:\DACN\LKMT\DAO\bin\Debug\DAO.dll
+E:\DACN\LKMT\DAO\bin\Debug\DAO.pdb
+E:\DACN\LKMT\DAO\bin\Debug\EntityFramework.dll
+E:\DACN\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\DACN\LKMT\DAO\bin\Debug\EntityFramework.xml
+E:\DACN\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\DACN\LKMT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\DACN\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\DACN\LKMT\DAO\obj\Debug\DAO.dll
+E:\DACN\LKMT\DAO\obj\Debug\DAO.pdb
+E:\DACN\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\LVTN\LKMT\DAO\bin\Debug\DAO.dll.config
+E:\LVTN\LKMT\DAO\bin\Debug\DAO.dll
+E:\LVTN\LKMT\DAO\bin\Debug\DAO.pdb
+E:\LVTN\LKMT\DAO\bin\Debug\EntityFramework.dll
+E:\LVTN\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\LVTN\LKMT\DAO\bin\Debug\EntityFramework.xml
+E:\LVTN\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.dll
+E:\LVTN\LKMT\DAO\obj\Debug\DAO.pdb
+E:\LKMT\DAO\bin\Debug\DAO.dll.config
+E:\LKMT\DAO\bin\Debug\DAO.dll
+E:\LKMT\DAO\bin\Debug\DAO.pdb
+E:\LKMT\DAO\bin\Debug\EntityFramework.dll
+E:\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\LKMT\DAO\bin\Debug\EntityFramework.xml
+E:\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\LKMT\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\LKMT\DAO\obj\Debug\DAO.dll
+E:\LKMT\DAO\obj\Debug\DAO.pdb
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\bin\Debug\DAO.dll.config
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\bin\Debug\DAO.dll
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\bin\Debug\DAO.pdb
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\obj\Debug\DAO.dll
+C:\Users\Administrator\Downloads\DACN - Copy (2)\LKMT\DAO\obj\Debug\DAO.pdb
