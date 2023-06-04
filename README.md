@@ -39,7 +39,7 @@ Then run the command
 
 ## Desktop View
 
-![](/function/1.png)
+![](img result/function/1.png)
 
 ## Tablet View
 
