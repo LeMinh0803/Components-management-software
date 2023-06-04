@@ -39,7 +39,7 @@ Then run the command
 
 ## Desktop View
 
-![](https://drive.google.com/file/d/1WRg6jKg4twqzSy3oLz5Cz5CyWy5w9Coo/view?usp=sharing)
+![](/function/1.png)
 
 ## Tablet View
 
