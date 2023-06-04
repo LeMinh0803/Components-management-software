@@ -11,10 +11,7 @@
 - [3. Screenshots](#screenshots) 📷
 - [4. My process](#my-process) ✨
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [5. Author](#author) 🙋🏻
-
+  
 # Overview 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,24 +65,26 @@ You can download the zip file from github. After downloading the zip file go to 
 
 
 # screenshots
-1. Quản lý nhóm linh kiện
+1. Parts group management
 ![](https://i.postimg.cc/c12N7fHn/4.png)
-2. Có thế thêm, sửa, xoá nhóm linh kiện
+2. You can add, edit, and delete component groups
 ![](https://i.postimg.cc/zXQ3gLmt/1.png)
-3. Quản lý loại linh kiện
+3. Parts type management
 ![](https://i.postimg.cc/fyGnwQFK/3.png)
-4. Quản lý tên thương hiệu
+4. Brand Name Management
 ![](https://i.postimg.cc/c12N7fHn/4.png)
-5. Quản lý phương thức thanh toán
+5. Manage payment methods
 ![](https://i.postimg.cc/8cJgQzyc/5.png)
-6. Tìm kiếm khách hàng
+6. Search for customer information
 ![](https://i.postimg.cc/BnG9ks2Z/6.png)
-7. Thêm khách hàng
+7. Add customers
 ![](https://i.postimg.cc/dtCc5DkS/7.png)
-8. Nhập sản phẩm vào kho
+8. Add the product into the warehouse
 ![](https://i.postimg.cc/VkBQcTFq/8.png)
-9. Thông báo nhập sản phẩm thành công
+9. Notice of successful product import
 ![](https://i.postimg.cc/W4NRpn9Q/9.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # My process
 
 ## Built With
@@ -97,3 +96,5 @@ You can download the zip file from github. After downloading the zip file go to 
 
 
 Thank you for your time 🙂 🙂
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
